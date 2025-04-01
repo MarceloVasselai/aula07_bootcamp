@@ -1,4 +1,4 @@
-from desafio import pipeline
+from desafio import pipeline, load_csv
 
 print(pipeline("vendas.csv"))
 
